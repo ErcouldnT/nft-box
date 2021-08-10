@@ -1,2 +1,2 @@
-# nft-box
-a marketplace for all nft content
+# NFT Box
+A search engine for all NFT content
